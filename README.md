@@ -13,7 +13,7 @@ arXiv preprint arXiv:2402.12701.
 Usage:
 
 ```
-/usr/bin/wmh_regional_seg --t1w FILE --flair FILE [--no-full]
+wmh_regional_seg --t1w FILE --flair FILE [--no-full]
 
 Required arguments:
   --t1w FILE         Path to the T1-weighted NIfTI image
