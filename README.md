@@ -36,6 +36,8 @@ Example of usage if you want o run the wmg_seg only (much faster):
 
 `docker run -v $PWD:/data -w /data tsantini/wmh_seg:regions wmh_seg -i sample_flair.nii.gz -o sample_flair_wmh_seg.nii.gz`
 
+The label code can be found [here](https://surfer.nmr.mgh.harvard.edu/fswiki/FsTutorial/AnatomicalROI/FreeSurferColorLUT).
+
 How it should look like:
 
 <img width="360" height="323" alt="snapshot0001" src="https://github.com/user-attachments/assets/99c07a51-7d74-4fbd-84fc-53e3f392fbd0" />
