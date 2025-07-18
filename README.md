@@ -1,4 +1,4 @@
-Segments the white matter hyperintensities and classify by regions.
+Segments the white matter hyperintensities and classifies them by region.
 
 Based on wmh_seg (https://github.com/jinghangli98/wmh_seg) and Freesurfer.
 
