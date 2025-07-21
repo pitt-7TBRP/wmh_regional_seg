@@ -1,14 +1,9 @@
-Segments the white matter hyperintensities and classifies them by white matter region.
+# Purpose
+Segment FLAIR-white matter hyperintensities (WMHs) and classify them by white matter regions.
 
-Uses wmh_seg (https://github.com/jinghangli98/wmh_seg) and Freesurfer (https://surfer.nmr.mgh.harvard.edu/).
+Use wmh_seg (https://github.com/jinghangli98/wmh_seg) and Freesurfer (https://surfer.nmr.mgh.harvard.edu/).
 
-Citation for wmh_seg: 
-
-
-Li, J., Santini, T., Huang, Y., Mettenburg, J. M., Ibrahim, T. S., Aizenstein, H. J., & Wu, M. (2024).
-wmh_seg: Transformer based U-Net for Robust and Automatic White Matter Hyperintensity Segmentation across 1.5 T, 3T and 7T.
-arXiv preprint arXiv:2402.12701.
-
+# How to use it
 
 Usage:
 
@@ -42,3 +37,6 @@ How it should look like:
 
 <img width="360" height="323" alt="snapshot0001" src="https://github.com/user-attachments/assets/99c07a51-7d74-4fbd-84fc-53e3f392fbd0" />
 <img width="360" height="323" alt="snapshot0002" src="https://github.com/user-attachments/assets/804ea4b2-626c-49a0-ace7-5a7d6713ef57" />
+
+# Citation
+Li, J., Santini, T., Huang, Y., Mettenburg, J. M., Ibrahim, T. S., Aizenstein, H. J., & Wu, M. (2024). wmh_seg: Transformer based U-Net for Robust and Automatic White Matter Hyperintensity Segmentation across 1.5 T, 3T and 7T. arXiv preprint arXiv:2402.12701. (https://arxiv.org/abs/2402.12701)
