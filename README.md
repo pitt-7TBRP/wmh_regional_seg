@@ -1,6 +1,6 @@
 Segments the white matter hyperintensities and classifies them by white matter region.
 
-Uses wmh_seg (https://github.com/jinghangli98/wmh_seg) and Freesurfer.
+Uses wmh_seg (https://github.com/jinghangli98/wmh_seg) and Freesurfer (https://surfer.nmr.mgh.harvard.edu/).
 
 Citation for wmh_seg: 
 
