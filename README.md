@@ -1,7 +1,7 @@
 # Purpose
 Segment FLAIR-white matter hyperintensities (WMHs) and classify them by white matter regions.
 
-Use wmh_seg (https://github.com/jinghangli98/wmh_seg) in FLAIR images and Freesurfer (https://surfer.nmr.mgh.harvard.edu/) in T1w images.
+Use [wmh_seg](https://github.com/jinghangli98/wmh_seg) in FLAIR images and [Freesurfer](https://surfer.nmr.mgh.harvard.edu/) in T1w images.
 
 # How to use it
 
@@ -31,7 +31,7 @@ Example of usage if you want o run the wmg_seg only (much faster):
 
 `docker run -v $PWD:/data -w /data tsantini/wmh_seg:regions wmh_seg -i sample_flair.nii.gz -o sample_flair_wmh_seg.nii.gz`
 
-The label code can be found here (https://surfer.nmr.mgh.harvard.edu/fswiki/FsTutorial/AnatomicalROI/FreeSurferColorLUT).
+The label code can be found [here](https://surfer.nmr.mgh.harvard.edu/fswiki/FsTutorial/AnatomicalROI/FreeSurferColorLUT).
 
 # Qualitative outcome
 
@@ -58,4 +58,4 @@ Use label codes below to generate WMH volumes in frontal, cingulate, occipital, 
 ```
 
 # Citation
-Li, J., Santini, T., Huang, Y., Mettenburg, J. M., Ibrahim, T. S., Aizenstein, H. J., & Wu, M. (2024). wmh_seg: Transformer based U-Net for Robust and Automatic White Matter Hyperintensity Segmentation across 1.5 T, 3T and 7T. arXiv preprint arXiv:2402.12701. (https://arxiv.org/abs/2402.12701)
+Li, J., Santini, T., Huang, Y., Mettenburg, J. M., Ibrahim, T. S., Aizenstein, H. J., & Wu, M. (2024). [wmh_seg: Transformer based U-Net for Robust and Automatic White Matter Hyperintensity Segmentation across 1.5 T, 3T and 7T](https://arxiv.org/abs/2402.12701). arXiv preprint arXiv:2402.12701. 
