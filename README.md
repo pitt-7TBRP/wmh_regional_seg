@@ -33,7 +33,7 @@ Example of usage if you want o run the wmg_seg only (much faster):
 
 The label code can be found [here](https://surfer.nmr.mgh.harvard.edu/fswiki/FsTutorial/AnatomicalROI/FreeSurferColorLUT).
 
-How it should look like:
+# Expected outcome
 
 <img width="360" height="323" alt="snapshot0001" src="https://github.com/user-attachments/assets/99c07a51-7d74-4fbd-84fc-53e3f392fbd0" />
 <img width="360" height="323" alt="snapshot0002" src="https://github.com/user-attachments/assets/804ea4b2-626c-49a0-ace7-5a7d6713ef57" />
