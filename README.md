@@ -56,6 +56,6 @@ Use label codes below to generate WMH volumes in frontal, cingulate, occipital, 
 4206    wm-rh-parietal-lobe                 35  195 35  0
 4207    wm-rh-insula-lobe                   20  220 160 0
 ```
-
+This is similar to the voxel-wise analysis used in [Phuah et al. 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9754646/) and mentioned in [Botz et al. 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10214839/)
 # Citation
 Li, J., Santini, T., Huang, Y., Mettenburg, J. M., Ibrahim, T. S., Aizenstein, H. J., & Wu, M. (2024). [wmh_seg: Transformer based U-Net for Robust and Automatic White Matter Hyperintensity Segmentation across 1.5 T, 3T and 7T](https://arxiv.org/abs/2402.12701). arXiv preprint arXiv:2402.12701. 
