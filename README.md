@@ -1,7 +1,7 @@
 # Purpose
 Segment FLAIR-white matter hyperintensities (WMHs) and classify them by white matter regions.
 
-Use [wmh_seg](https://github.com/jinghangli98/wmh_seg) in FLAIR images and [Freesurfer](https://surfer.nmr.mgh.harvard.edu/) in T1w images.
+Use [wmh_seg](https://github.com/jinghangli98/wmh_seg) in FLAIR images and [Freesurfer](https://surfer.nmr.mgh.harvard.edu/) in T1w images to reveal WMH spatial pattern in your dataset.
 
 # How to use it
 
